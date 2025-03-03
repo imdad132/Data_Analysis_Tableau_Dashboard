@@ -9,6 +9,7 @@ Most of the major cities except Manchester and Glasgow saw increase in employmen
 Mjaor manufacturing industries saw decline in employment generation
 
 #Dashboard
--<a href="https://github.com/imdad132/Data_Analysis_Tableau_Dashboard/blob/main/Employment%20trends_UK.xlsx"> Employment trends_UK</a>
+![Data_Analysis_Dashboard](https://github.com/user-attachments/assets/cdd69ff4-413e-492b-bdf3-d2efd17d3f2c)
+
 
 
