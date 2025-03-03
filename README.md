@@ -3,3 +3,12 @@ This dashboard analyses employment trends by using UK government data from diffe
 
 # Data Set 
 -<a href="https://github.com/imdad132/Data_Analysis_Tableau_Dashboard/blob/main/Employment%20trends_UK.xlsx">Data Set</a> 
+
+# KPI Insights
+Most of the major cities except Manchester and Glasgow saw increase in employment generation
+Mjaor manufacturing industries saw decline in employment generation
+
+#Dashboard
+
+
+
